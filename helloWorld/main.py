@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # imports
 from datetime import datetime
 from random import randint
