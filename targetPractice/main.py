@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Import library code
 from p5 import *
 from random import randint
