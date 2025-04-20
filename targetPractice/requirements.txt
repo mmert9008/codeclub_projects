@@ -1,7 +1,7 @@
 glfw>=2.5.9
 numpy
 Pillow
-vispy==0.10.0
+vispy==0.14.3
 PyOpenGL==3.1.6
 requests>=2.25.0
 dataclasses;python_version=="3.6"
